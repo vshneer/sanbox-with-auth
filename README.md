@@ -1,7 +1,8 @@
 # DAML WITH AUTH
 
-The goal of this repo is to provide an example of a simple daml app with Auth0 protection
-AuthT and AuthZ for Navigator, JSON API client and UI
+The goal of this repo is to provide an example of a simple daml app with Auth0 protection  
+AuthT and AuthZ for Navigator, JSON API client and UI  
+The project is in process  
 
 ## Launch tips
 ```
