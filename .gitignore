@@ -38,8 +38,14 @@ nb-configuration.xml
 .env
 env.sh
 
+# Daml
 *.daml/
 
+# Logs
 *.log
 log/
 
+# UI
+ui/build
+ui/daml.js
+ui/node_modules
